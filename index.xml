@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页 on Zexun Luo | 罗泽勋</title>
-    <link>/</link>
+    <link>https://luozexun.github.io/</link>
     <description>Recent content in 首页 on Zexun Luo | 罗泽勋</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 07 Jul 2019 13:42:40 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luozexun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>/about/</link>
+      <link>https://luozexun.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://luozexun.github.io/about/</guid>
       <description>我是谁 一个生活在广东的在校大学生，就读软件工程专业。这说明我目前大部分时间待在学校或者说是宅在宿舍里，同时也透露出我在成为码农的道路上努力着。除了写写代码，我也会有一些业余爱好，比如游戏、羽毛球。我喜欢简约好看的页面，对排版有无止境的追求。
 本站架构 本站目前采用Hugo作为后台系统，博客模板是Terrassa。</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>/posts/test/</link>
+      <link>https://luozexun.github.io/posts/test/</link>
       <pubDate>Sun, 07 Jul 2019 13:42:40 +0800</pubDate>
       
-      <guid>/posts/test/</guid>
+      <guid>https://luozexun.github.io/posts/test/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title></title>
-      <link>/sections/introduce/</link>
+      <link>https://luozexun.github.io/sections/introduce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sections/introduce/</guid>
+      <guid>https://luozexun.github.io/sections/introduce/</guid>
       <description>这里是罗泽勋的个人主页。自从高考毕业后，我就读于华南师范大学，目前仍是一位在校大学生。我喜欢折腾代码，喜欢探索未知的事物。我的业余爱好并不多，平时打打羽毛球，玩玩电子竞技游戏，也喜欢玩桌游，狼人杀、三国杀、魔城马车都令我沉迷。喜欢李白《侠客行》中的一句：  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;十步杀一人，千里不留行。
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;事了拂衣去，深藏身与名。</description>
     </item>
